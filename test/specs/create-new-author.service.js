@@ -8,7 +8,8 @@
     setup(module('blog'));
 
     setup(inject(function () {
-
-    }))
+      
+    }));
   });
+
 })();

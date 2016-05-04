@@ -88,6 +88,9 @@
     "globals"       : {
       "$": true,
       "ght": true,
-      "angular": true
+      "angular": true,
+      "chai": true,
+      "module": true,
+      "inject": true
       }        // additional predefined global variables
 }
