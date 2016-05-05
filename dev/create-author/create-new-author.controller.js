@@ -14,7 +14,7 @@
 
         this.newAuthorForm = function newAuthorForm() {
 
-          NewAuthorService.createAuthor(this.newAuthor)
+          return NewAuthorService.createAuthor(this.newAuthor)
             .then( LoginService.authenticate(this.newAuthor) )
             .then( function goHome() {
               $state.go('home');
