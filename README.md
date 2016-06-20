@@ -14,13 +14,15 @@ This project was built using [AngularJS](https://angularjs.org/) and [Sass](http
 If you would like to fork and work on your own version you will find that all of the working files are in the dev folder.
 
 Get up and running by using the following steps.
-1. [Install git](http://git-scm.com)
-2. [Install Node](http://nodejs.org)
-3. [Install Grunt](http://gruntjs.com)
-4. Clone Popular Science to your own system
-5. Navigate to the root directory of your clone and run `npm install`
-6. Edit away, have fun
-7. Run grunt in the root directory to build your changes from the src directory to the build directory
-8. The `index.html` file in the client directory is the main html file for the site
+<ol>
+  <li>[Install git](http://git-scm.com)</li>
+  <li>[Install Node](http://nodejs.org)</li>
+  <li>[Install Grunt](http://gruntjs.com)</li>
+  <li>Clone Popular Science to your own system</li>
+  <li>Navigate to the root directory of your clone and run `npm install`</li>
+  <li>Edit away, have fun</li>
+  <li>Run grunt in the root directory to build your changes from the src directory to the build directory</li>
+  <li>The `index.html` file in the client directory is the main html file for the site</li>
+</ol>
 
 [Popular Science](https://pop-sci.herokuapp.com/) was built by [Matt Grosso](www.linkedin.com/in/grossomatt), [Ryan Ha](https://www.linkedin.com/in/ryan-ha-84715a30), [Noelle Knight](https://www.linkedin.com/in/noelle-knight-96538840), [Alex Perkins](https://www.linkedin.com/in/alexander-perkins-52852553) and [Elizabeth Swain](https://www.linkedin.com/in/liz-swain-61315223) at [The Iron Yard](https://www.theironyard.com/), DC. Enjoy!
