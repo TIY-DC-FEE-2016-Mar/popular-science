@@ -15,9 +15,9 @@ If you would like to fork and work on your own version you will find that all of
 
 Get up and running by using the following steps.
 <ol>
-  <li>[Install git](http://git-scm.com)</li>
-  <li>[Install Node](http://nodejs.org)</li>
-  <li>[Install Grunt](http://gruntjs.com)</li>
+  <li>Install git (http://git-scm.com)</li>
+  <li>Install Node (http://nodejs.org)</li>
+  <li>Install Grunt (http://gruntjs.com)</li>
   <li>Clone Popular Science to your own system</li>
   <li>Navigate to the root directory of your clone and run `npm install`</li>
   <li>Edit away, have fun</li>
